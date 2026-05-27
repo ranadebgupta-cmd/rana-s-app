@@ -1,0 +1,6 @@
+{
+  "name": "QR Scanner AI",
+  "description": "A modern, highly polished, AI-powered QR code scanner featuring live camera scanning, document detection, and automated smart category processing with Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
